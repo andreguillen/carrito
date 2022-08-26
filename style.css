@@ -1,0 +1,56 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto";  
+    background-color: #fff; 
+    width: 100vw; 
+}
+
+.row > div{
+    background: #e7567f;
+    padding: 30px;
+    border: 0.5px solid rgb(40, 33, 33);
+    margin: 00.5em;
+    
+  }
+
+.contenedor .item2{
+    background-color: rgb(247, 179, 235);
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+.contenedor .item2 img{
+    width: 20%;
+    height: 20%;
+}
+
+
+#item4{
+    background-color:#ffff;
+    margin: 50px;
+}
+
+#item5{
+    background-color: #ffff;
+    margin: 50px;
+}
+
+.item6{
+    background-color: rgb(168, 217, 243);
+   
+}
+
+h4{
+    font-family: 'Concert One';
+    padding: 0.5em;
+}
+
+
+
